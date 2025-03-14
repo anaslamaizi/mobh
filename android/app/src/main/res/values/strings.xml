@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MobH_mobile</string>
+    <string name="title_activity_main">MobH_mobile</string>
+    <string name="package_name">com.capgemini.mobh.mob</string>
+    <string name="custom_url_scheme">com.capgemini.mobh.mob</string>
+</resources>
